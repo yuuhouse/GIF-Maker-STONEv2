@@ -123,5 +123,5 @@ GIF-Maker-STONEv2/
 ---
 
 **開發者**:ChatGPT<br>
-**最後更新**: 2025 年 12 月
-**MD檔案**：由copilot撰寫
+**最後更新**: 2025 年 12 月<br>
+**MD檔案**：由Copilot撰寫
