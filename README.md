@@ -2,6 +2,8 @@
 
 一個使用 Rust 和 egui 開發的視頻轉 GIF 工具，提供圖形化用戶界面。
 
+![GIF Maker Screenshot](Screenshot_2025-12-08_234021.png)
+
 ## 功能特性
 
 - 🎬 支持多種視頻格式（MP4、MOV、MKV、WebM）
@@ -9,6 +11,9 @@
 - ⏱️ 自定義 GIF 時長
 - 📊 實時進度顯示
 - ⏸️ 支持取消操作
+
+
+
 
 ## 系統要求
 
