@@ -28,16 +28,6 @@ choco install ffmpeg
 # 或使用提供的 ffmpeg 資料夾
 ```
 
-**macOS:**
-```bash
-brew install ffmpeg
-```
-
-**Linux:**
-```bash
-sudo apt-get install ffmpeg
-```
-
 ### 2. 編譯項目
 
 ```bash
@@ -52,7 +42,11 @@ cargo build --release
 cargo run --release
 ```
 
-或是進到GIF-Maker-STONEv2\target\release\gif_maker_egui.exe 點擊EXE使用
+或是進到
+```bash
+GIF-Maker-STONEv2\target\release\gif_maker_egui.exe
+``` 
+點擊EXE使用
 
 ### 操作步驟
 
