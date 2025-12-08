@@ -1,0 +1,25 @@
+[package]
+name = "gif_maker_egui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.33"
+egui = "0.33"
+
+
+# 檔案對話視窗（跨平台）
+rfd = "0.16"
+
+# 臨時資料夾
+tempfile = "3.6"
+
+# 讀寫影像、gif 編碼
+image = { version = "0.25", features = ["png", "gif"] }
+gif="0.12"
+
+# 更好地處理錯誤（選用）
+anyhow = "1.0"
+
+# 可選：遍歷檔案排序
+glob = "0.3"
