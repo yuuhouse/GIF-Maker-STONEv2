@@ -12,7 +12,7 @@
 - 📊 實時進度顯示
 - ⏸️ 支持取消操作
 
-
+ ## [下載 Release](https://github.com/yuuhouse/GIF-Maker-STONEv2/releases)
 
 
 ## 系統要求
