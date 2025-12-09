@@ -47,11 +47,15 @@ cargo build --release
 cargo run --release
 ```
 
-或是進到
+或是點選
+```bash
+environment&run.bat
+```
+執行自動環境偵測與編譯，之後進到
 ```bash
 GIF-Maker-STONEv2\target\release\gif_maker_egui.exe
 ``` 
-點擊EXE使用
+資料夾點擊exe使用
 
 ### 操作步驟
 
@@ -70,8 +74,7 @@ GIF-Maker-STONEv2/
 │   └── main.rs          # 主程序代碼
 ├── Cargo.toml           # 項目配置
 ├── ffmpeg/              # FFmpeg 二進制文件及文檔
-├── assets/              # 資源文件
-└── target/              # 編譯輸出
+└── assets/              # 資源文件
 ```
 
 ## 技術棧
@@ -127,6 +130,6 @@ GIF-Maker-STONEv2/
 
 ---
 
-**開發者**:ChatGPT<br>
+**開發者**:總之是當下最新版的ChatGPT<br>
 **最後更新**: 2025 年 12 月<br>
 **MD檔案**：由Copilot撰寫
